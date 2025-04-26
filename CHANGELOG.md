@@ -8,7 +8,7 @@
 ### Añadido
 
 -   Se añade la pagina original y responsiva: https://github.com/choidavid4/pagina-completa-html-css
-La cual fue diseñada por DEIVCHOI
+La cual fue diseñada por DEIVCHOI y editada por la N - Neamstrongc.
 
 https://www.instagram.com/deivchoi/#
 
