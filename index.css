@@ -13,8 +13,8 @@ body{
 
 h1{ font-size: 3.5em;}
 h2{ font-size: 2.7em;}
-h3{ font-size: 2em;}
-p{ font-size: 1.25em;}
+h3{ font-size: 2.2em;}
+p{ font-size: 1.5em;}
 ul{ list-style: none;}
 li{ font-size: 1.25em;}
 
@@ -25,6 +25,12 @@ button{
     border-radius: 5px;
     border: 2px solid rgba(0,0,0,0.3);
     box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+    color: white;
+    background-color: blueviolet;
+}
+button a{
+    font-size: 1.25em;
+    font-weight: bold;
     color: white;
     background-color: blueviolet;
 }
@@ -46,6 +52,7 @@ header{
 }
 
 header .logo{
+    font-family: cursive;
     margin: 0;
     padding: 25px 30px;
     font-weight: bold;
@@ -89,7 +96,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/hero.jpg");
+    ,url("media/hero2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -141,7 +148,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/front-end.jpg");
+    ,url("media/tattoo.jpg");
 
 }
 
@@ -151,7 +158,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/full-stack.jpg");
+    ,url("media/pier_cing.jpg");
 }
 
 .carta:nth-child(3){
@@ -160,7 +167,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/python.jpg");
+    ,url("media/events.jpg");
 
 }
 
@@ -251,7 +258,7 @@ footer .container{
     }
 
     #somos-proya .img-container{
-        background-image: url("media/somos-proya.jpg");
+        background-image: url("media/tattolandia.jpg");
         background-size: cover;
         background-position: center center;
         height: 500px;
@@ -291,7 +298,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/front-end-cropped.jpg");
+        ,url("media/tatto-cropped.jpg");
 
     }
 
@@ -301,7 +308,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/full-stack-cropped.jpg");
+        ,url("media/piercing-cropped.jpg");
     }
 
     .carta:nth-child(3){
@@ -310,12 +317,12 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/python-cropped.jpg");
+        ,url("media/events-cropped.jpg");
 
     }
 
     #caracteristicas{
-        background-image: url("media/background-2.jpeg");
+        background-image: url("media/tattolandia2.jpg");
         background-repeat: no-repeat;
         background-size: 500px 400px;
         background-position: calc(100vw - 500px) 120px;
