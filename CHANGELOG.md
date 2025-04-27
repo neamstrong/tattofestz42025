@@ -3,32 +3,53 @@
 
  # CHANGELOG
 
-## [1.1.1] - 2025-04-25
+
+ ## [1.1.2] - 2025-04-27
+
+- ACTUALIZACION EN LINEA
 
 ### Añadido
 
--   Se añade la pagina original y responsiva: https://github.com/choidavid4/pagina-completa-html-css
-La cual fue diseñada por DEIVCHOI y editada por la N - Neamstrongc.
+-  Enlaces e imagenes respectivas de Partners y redes sociales
 
-https://www.instagram.com/deivchoi/#
+-   AÑADIDO BOTON PARA REDACTAR CORREO
 
-https://discord.com/invite/BfDmzeT9A8
+-  BOTON PARA CONTACTAR VÍA WHATSSAPP +573208322315
 
-https://github.com/choidavid4
+-  COMPLETA ARCHIVO IMAGENES tattolandia
 
-
--   Agregamos Licencia APACHE 2.0
 
 ### Modificado
+
+-   TITULO(LOGOTIPO) ENLACE: index.html
+
+-   Cambio icono N por ICONO yellowicoN
+
+### Por Corregir 
+
+-   TAMAÑO SECCIONES: NUESTRO TRABAJO
+
+-   ENLACES DE SECCIONES: NUESTRO TRABAJO
+
+## [1.1.1] - 2025-04-26
+
+-   Lanzamiento inicial. N
+
+### Añadido
+
+-  Enlaces e imagenes respectivas de Partners y redes sociales
+
+-   AÑADIDO BOTON PARA REDACTAR CORREO
+
+### Modificado
+
+-   TITULO(LOGOTIPO)
 
 -   Cambio icono N por ICONO yellowicoN
 
 -   Actualizacion de pagina de CONTACTO:    Numero de celular * 3003390578
 
 ### Corregido
-
-- IMAGENES, ENLACES, BOTONES E INFORMACION CONTENIDA.
-
 
 -   
 
@@ -45,4 +66,15 @@ https://github.com/choidavid4
 
 ## [1.0.0] - 2025-04-26
 
--   Lanzamiento inicial. N
+-   Se añade la pagina original y responsiva: https://github.com/choidavid4/pagina-completa-html-css
+La cual fue diseñada por DEIVCHOI
+
+https://www.instagram.com/deivchoi/#
+
+https://discord.com/invite/BfDmzeT9A8
+
+https://github.com/choidavid4
+
+
+-   Agregamos Licencia APACHE 2.0
+
