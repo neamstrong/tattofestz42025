@@ -3,6 +3,24 @@
 
  # CHANGELOG
 
+## [1.1.2] - 2025-04-28
+
+- ACTUALIZACION EN LINEA
+
+### Añadido
+
+- 
+
+### Modificado
+
+-   ARCHIVO CSS Y ATRIBUTO FONTSIZE:1.25em
+
+  
+### Por Corregir 
+
+-   TAMAÑO SECCIONES: NUESTRO TRABAJO
+
+-   ENLACES DE SECCIONES: NUESTRO TRABAJO
 
  ## [1.1.2] - 2025-04-27
 
