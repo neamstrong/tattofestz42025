@@ -225,6 +225,7 @@ div#link{
     background-color: none;
 }
 div#link ul img{
+    margin.bottom:100px;
     margin-right: 3em;
     align-items: center;
     width: 45px;
