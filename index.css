@@ -218,14 +218,16 @@ footer .container{
 div#link{
     color: white;
     padding: 40px;
+    margin-bottom: 40px;
     min-width: 60%;
     width: 75%;
     display: inline-block;
     height: 70%;
     background-color: none;
 }
+
 div#link ul img{
-    margin-bottom:45px;
+    margin-bottom: 20px;
     margin-right: 3em;
     align-items: center;
     width: 45px;
