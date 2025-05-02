@@ -2,6 +2,7 @@
  https://github.com/choidavid4/pagina-completa-html-css
 
  # CHANGELOG
+ 
 
 ## [1.1.2] - 2025-05-02
 
@@ -9,7 +10,7 @@
 
 ### Añadido
 
-- 
+- ENLACE DE ETIQUETA GOOGLE TAG MANAGER (GA4)
 
 ### Modificado
 
@@ -139,6 +140,7 @@ https://discord.com/invite/BfDmzeT9A8
 
 https://github.com/choidavid4
 
+### Añadido
 
 -   Agregamos Licencia APACHE 2.0
 
