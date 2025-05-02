@@ -10,7 +10,7 @@
 
 ### Añadido
 
-- ENLACE DE ETIQUETA GOOGLE TAG MANAGER (GA4)
+- ENLACE DE ETIQUETA GOOGLE A4, GALERIA E TATTOFESTZ4
 
 ### Modificado
 
@@ -140,7 +140,6 @@ https://discord.com/invite/BfDmzeT9A8
 
 https://github.com/choidavid4
 
-### Añadido
 
 -   Agregamos Licencia APACHE 2.0
 
