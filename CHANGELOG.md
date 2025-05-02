@@ -3,6 +3,46 @@
 
  # CHANGELOG
 
+## [1.1.2] - 2025-05-02
+
+- ACTUALIZACION EN LINEA
+
+### Añadido
+
+- 
+
+### Modificado
+
+-   
+
+
+### Por Corregir 
+
+-   TAMAÑO SECCIONES: NUESTRO TRABAJO
+
+-   ENLACES DE SECCIONES: NUESTRO TRABAJO
+
+-   PATROCINADORES, ENLACESY DIRECCION A INFORMACIÓN DE TERCEROS.
+
+ ## [1.1.2] - 2025-05-01
+
+- ACTUALIZACION EN LINEA
+
+### Añadido
+
+- 
+
+### Modificado
+
+-   ¿Quienes somos? CORRECCION imborrable a imborrable.
+
+
+### Por Corregir 
+
+-   TAMAÑO SECCIONES: NUESTRO TRABAJO
+
+-   ENLACES DE SECCIONES: NUESTRO TRABAJO
+
 ## [1.1.2] - 2025-04-28
 
 - ACTUALIZACION EN LINEA
