@@ -2,6 +2,26 @@
  https://github.com/choidavid4/pagina-completa-html-css
 
  # CHANGELOG
+
+## [1.1.2] - 2025-05-07
+
+-   ACTUALIZACION EN LINEA
+
+### Añadido
+
+-   
+
+### Modificado
+
+-  CORRECCION DE ETIQUETA GOOGLE TAG MANAGER.
+
+### Por Corregir 
+
+-   TAMAÑO SECCIONES: NUESTRO TRABAJO
+
+-   ENLACES DE SECCIONES: NUESTRO TRABAJO
+
+-   PATROCINADORES, ENLACES Y DIRECCION A INFORMACIÓN DE TERCEROS.
  
 ## [1.1.2] - 2025-05-06
 
