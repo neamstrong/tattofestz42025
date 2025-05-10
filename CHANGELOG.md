@@ -3,7 +3,7 @@
 
  # CHANGELOG
 
-## [1.1.2] - 2025-05-07
+## [1.1.2] - 2025-05-10
 
 -   ACTUALIZACION EN LINEA
 
@@ -13,7 +13,7 @@
 
 ### Modificado
 
--  CORRECCION DE ETIQUETA GOOGLE TAG MANAGER.
+-  ACTUALIZACION DE LICENCIA APACHE 2.0 A GNU GPL v3.0, DETAILS OF COMPANY & AUTHOR
 
 ### Por Corregir 
 
@@ -22,7 +22,29 @@
 -   ENLACES DE SECCIONES: NUESTRO TRABAJO
 
 -   PATROCINADORES, ENLACES Y DIRECCION A INFORMACIÓN DE TERCEROS.
- 
+
+## [1.1.2] - 2025-05-06
+
+-   ACTUALIZACION EN LINEA
+
+### Añadido
+
+-   ENLACE DE ETIQUETA GOOGLE A4, GALERIA E TATTOFESTZ4
+
+-   GOOGLE TAGMANAGER
+
+### Modificado
+
+-  
+
+### Por Corregir 
+
+-   TAMAÑO SECCIONES: NUESTRO TRABAJO
+
+-   ENLACES DE SECCIONES: NUESTRO TRABAJO
+
+-   PATROCINADORES, ENLACES Y DIRECCION A INFORMACIÓN DE TERCEROS.
+
 ## [1.1.2] - 2025-05-06
 
 -   ACTUALIZACION EN LINEA
@@ -139,7 +161,8 @@
 
 ## [1.1.1] - 2025-04-26
 
--   Lanzamiento inicial. N
+
+- ACTUALIZACION EN LINEA
 
 ### Añadido
 
@@ -161,6 +184,8 @@
 
 ## [1.1.0] - 2025-04-25
 
+- ACTUALIZACION EN LINEA
+
 ### Añadido
 
 -   software de proteccion APACHE 2.0 (TATTOOLANDIA - NDECOLOMBIA)
@@ -171,6 +196,10 @@
 -   IMAGENES DE SECCION: TATTOOS, PIERCINGS Y EVENTOS.
 
 ## [1.0.0] - 2025-04-26
+
+-   LANZAMIENTO INICIAL
+
+### Añadido
 
 -   Se añade la pagina original y responsiva: https://github.com/choidavid4/pagina-completa-html-css
 La cual fue diseñada por DEIVCHOI
