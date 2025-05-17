@@ -8,11 +8,10 @@ body{
 	margin: 0;
 	padding: 0;
 background-color: black;
-color: pink;
+color: white;
 }
 p{
-	color:pink;
-	text-decoration:underline;
+	color: pink;
 }
 
 img{
@@ -27,11 +26,11 @@ img:hover{
 
 a{
 	color: white;
-text-decoration-line: none;
 padding: 7px;
 }
 a:hover{
-	color: white;
+	background-color: grey;
+	color: blue;
 }
 
 div.boton{
